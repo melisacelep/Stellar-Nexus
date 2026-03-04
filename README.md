@@ -179,3 +179,5 @@ Possible improvements include:
 ## ❤️ Built for Learning Blockchain Development
 
 This project demonstrates how modern web technologies can integrate with **Stellar blockchain infrastructure** to build decentralized financial applications. 
+# Stellar-Nexus
+🌌 Stellar Nexus: A premium Stellar Testnet dApp with Glassmorphism UI. Built with React, Node.js, and Stellar SDK for lightning-fast blockchain transactions.
